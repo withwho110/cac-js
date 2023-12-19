@@ -9,3 +9,10 @@ let somenumber=33
 let stringNumber=String(somenumber);
 console.log(stringNumber);
 console.log(typeof stringNumber)
+//**********************operations********************* */
+let value=3
+let negvalue= -value
+console.log(negvalue);
+console.log(1+"2");
+console.log("1"+2);
+console.log("1"+2+2);
